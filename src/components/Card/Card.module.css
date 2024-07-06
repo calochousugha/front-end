@@ -1,0 +1,56 @@
+.todo{
+    width: 20%;
+    height: 230px;
+    margin-top: 2%;
+    background: #333333;
+    gap: 10px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.video{
+    width: 100%;
+    height: 180px;
+    color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 15px 15px 0px 0px;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.video img{
+    width: 100%;
+    height: 180px;
+    color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 15px 15px 0px 0px;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.botones{
+    display: flex;
+    height: 46px;
+    width: 100%;
+    border: 1px solid #f2f2f2;
+    border-radius: 0px 0px 15px 15px;
+    justify-content: center;
+    align-content: center;
+}
+
+.iconoTexto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0px 30px;
+}
+
+.texto{
+    font-weight: 500;
+    font-size: 15px;
+    color: #f2f2f2;
+    margin: 0px 5px;
+}
